@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-  🍋 Lemon AI 🍋
+   AllxdDev AI 
 </h1>
 
 <p align="center">
@@ -20,18 +20,18 @@
 </h3>
 
 <p align="center">
-  Cek Websitenya <a href="https://lemonsync.github.io/Lemon_AI/chat.html">Klik Saya</a>
+  Cek Websitenya <a href="https://AllxdDev-Hosting.github.io/AllxdDevAI/chat.html">Klik Saya</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/LemonSync/Lemon_AI?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/LemonSync/Lemon_AI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/AllxdDev-Hosting/AllxdDevAI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/AllxdDev-Hosting/AllxdDevAI?style=for-the-badge" />
 </p>
 
 ---
 
 ## ✨ Tentang Proyek Ini
-**Lemon AI** adalah chatbot berbasis web yang mendukung sistem sesi untuk interaksi yang lebih alami. Proyek ini dibuat menggunakan **HTML, CSS, dan JavaScript**.
+**AllxdDev AI** adalah chatbot berbasis web yang mendukung sistem sesi untuk interaksi yang lebih alami. Proyek ini dibuat menggunakan **HTML, CSS, dan JavaScript**.
 
 🔹 **Fitur Utama**:
 - 💬 **Sesi Berkelanjutan** – Chat tidak terhapus kecuali saat web di refresh
@@ -52,10 +52,9 @@
 
 ## 📬 Kontak
 Jika ada pertanyaan atau ingin berkontribusi, hubungi saya di:
-- 🌐 **GitHub**: [LemonSync](https://github.com/LemonSync)
-- 📧 **Email**: grouplemon0@gmail.com
-- 🐦 **Twitter**: [@SyncLemon](https://twitter.com/SyncLemon)
-- 📞 **WhatsApp**: [Lemon](wa.me/6285763482523)
+- 🌐 **GitHub**: [AllxdDev-Hosting](https://github.com/AllxdDev-Hosting)
+- 📧 **Email**: [allxddev@gmail.com](mailto:allxddev@gmail.com)
+- 📞 **WhatsApp**: [Hubungi Saya](https://wa.me/6288297793616)
 
 ---
 
