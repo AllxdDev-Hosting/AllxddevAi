@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-  Cek Websitenya <a href="https://AllxdDev-Hosting.github.io/AllxdDevAI/chat.html">Klik Saya</a>
+  Cek Websitenya <a href="https://allxddev-ai.vercel.app/">Klik Saya</a>
 </p>
 
 <p align="center">
